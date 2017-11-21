@@ -19,48 +19,48 @@ export function getCrews() {
     },
     { 
       id: 3, 
-      name: "Aurelien Boucher",
-      image: "aurelien.boucher",
+      name: "Nom Frod",
+      image: "nom",
       title: "Business Design",
       segment: "Design",
       group: "design"
     },
     { 
       id: 4, 
-      name: "Suhel Anwar",
-      image: "suhel.anwar",
+      name: "Justen Eastwood",
+      image: "justen",
       title: "Digital Business Integration Manager",
       segment: "Business & Technology Integration",
       group: "dev"
     },
     { 
       id: 5, 
-      name: "Matthew Choi",
-      image: "matthew.choi",
+      name: "Chris Choi",
+      image: "chris",
       title: "Front End Development Associate Mgr",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 6, 
-      name: "Edward Blake",
-      image: "edward.blake",
+      name: "Patrick Blake",
+      image: "patrick",
       title: "Service & Interaction Design",
       segment: "Design",
       group: "design"
     },
     { 
       id: 7, 
-      name: "David Be",
-      image: "david.be",
+      name: "Kristy Perry",
+      image: "kristy",
       title: "Program & Project Mgmt Specialist",
       segment: "Program, Project & Service Mgmt",
       group: "dev"
     },
     { 
       id: 8, 
-      name: "Ewan Horsburgh",
-      image: "ewan.horsburgh",
+      name: "Christian Pale",
+      image: "christian",
       title: "Front End Development Associate Mgr",
       segment: "Business & Technology Integration",
       group: "fed"
@@ -75,64 +75,64 @@ export function getCrews() {
     },
     { 
       id: 10, 
-      name: "Martin Brown",
-      image: "martin.m.brown",
+      name: "Laura Jane",
+      image: "laura",
       title: "Design Leadership",
       segment: "Design",
       group: "design"
     },
     { 
       id: 11, 
-      name: "Bekky Bush",
-      image: "rebekka.bush",
+      name: "Rachel Brown",
+      image: "rachel",
       title: "Design Leadership",
       segment: "Design",
       group: "design"
     },
     { 
       id: 12, 
-      name: "Harry Cahyadi",
-      image: "harry.cahyadi",
+      name: "Matt Cameron",
+      image: "matt",
       title: "Digital Technology Developer Specialist",
       segment: "Software Engineering",
       group: "dev"
     },
     { 
       id: 13, 
-      name: "Breno Pittoli",
-      image: "breno.pittoli",
+      name: "Daniel Brown",
+      image: "daniel",
       title: "Front End Development Specialist",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 14, 
-      name: "Alex Cameron",
-      image: "alexander.cameron",
+      name: "Steve Cruise",
+      image: "steve",
       title: "Visual Design",
       segment: "Design",
       group: "design"
     },
     { 
       id: 15, 
-      name: "Sunil Chandrashekar",
-      image: "sunil.chandrashekar",
+      name: "Matthew Joel",
+      image: "matthew",
       title: "Digital Business Integration Manager",
       segment: "Business & Technology Integration",
       group: "dev"
     },
     { 
       id: 16, 
-      name: "Samuel Hemphill",
-      image: "samuel.hemphill",
+      name: "Elliot Jordan",
+      image: "elliot",
       title: "Frontend Development Specialist",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 17, 
-      name: "Andrew Barrie",
-      image: "andrew.barrie",
+      name: "Stevie Simmons",
+      image: "stevie",
       title: "Service & Interaction Design",
       segment: "Design",
       group: "design"
@@ -147,116 +147,68 @@ export function getCrews() {
     },
     { 
       id: 19, 
-      name: "Sabarish Chokkalingom",
-      image: "s.chokkalingom",
+      name: "Molly Walker",
+      image: "molly",
       title: "Digital Technology Developer Team Lead",
       segment: "Software Engineering",
       group: "dev"
     },
     { 
       id: 20, 
-      name: "Changez Shaikhr",
-      image: "changez.shaikh",
+      name: "Elyse Milburn",
+      image: "elyse",
       title: "Front End Development Specialist",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 21, 
-      name: "Chris Costuna",
-      image: "chris.costuna",
+      name: "Tom Knight",
+      image: "tom",
       title: "Business Design",
       segment: "Design",
       group: "design"
     },
     { 
       id: 22, 
-      name: "Madhu Dasari",
-      image: "madhu.c.dasari",
+      name: "Nan Hallawell",
+      image: "nan",
       title: "Digital Technology Developer Team Lead",
       segment: "Software Engineering",
       group: "dev"
     },
     { 
       id: 23, 
-      name: "Soumendu Ghara",
-      image: "soumendu.ghara",
+      name: "Helen Smith",
+      image: "helen",
       title: "Digital Technology Developer Manager",
       segment: "Software Engineering",
       group: "dev"
     },
     { 
       id: 24, 
-      name: "Grant Chan",
-      image: "grant.chan",
+      name: "Jenny Lopez",
+      image: "Jenny",
       title: "Front End Development Specialist",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 25, 
-      name: "Sacha Jerrems",
-      image: "s.jerrems",
+      name: "Veronika Jerrems",
+      image: "veronika",
       title: "Visual Design",
       segment: "Design",
       group: "design"
     },
     { 
       id: 26, 
-      name: "John Wesley",
-      image: "john.charles.wesley",
+      name: "Zoe Wesley",
+      image: "zoe",
       title: "Digital Technology Developer Assoc Mgr",
       segment: "Software Engineering",
       group: "dev"
-    },
-    { 
-      id: 27, 
-      name: "Alessandro Esposito",
-      image: "a.d.esposito",
-      title: "Digital Technology Developer Assoc Mgr",
-      segment: "Software Engineering",
-      group: "dev"
-    },
-    { 
-      id: 28, 
-      name: "Mark Jones",
-      image: "mark.p.jones",
-      title: "Service & Interaction Design",
-      segment: "Design",
-      group: "design"
-    },
-    { 
-      id: 29, 
-      name: "Carmen Chan",
-      image: "carmen.chan",
-      title: "Front End Development Specialist",
-      segment: "Business & Technology Integration",
-      group: "fed"
-    },
-    { 
-      id: 30, 
-      name: "Prue Jones",
-      image: "prue.jones",
-      title: "Visual Design",
-      segment: "Design",
-      group: "design"
-    },
-    { 
-      id: 31, 
-      name: "Melissa Jose",
-      image: "melissa.jose",
-      title: "Digital Technology Developer Specialist",
-      segment: "Software Engineering",
-      group: "dev"
-    },
-    { 
-      id: 32, 
-      name: "Enoch Tan",
-      image: "enoch.tan",
-      title: "Service & Interaction Design",
-      segment: "Design",
-      group: "design"
-    },
+    }
   ]
 )
 }
