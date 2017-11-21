@@ -67,8 +67,8 @@ export function getCrews() {
     },
     { 
       id: 9, 
-      name: "Belinda Bong",
-      image: "belinda.bong",
+      name: "Belinda Wills",
+      image: "molly",
       title: "Program & Project Mgmt Associate Manager",
       segment: "Program, Project & Service Mgmt",
       group: "dev"
@@ -76,7 +76,7 @@ export function getCrews() {
     { 
       id: 10, 
       name: "Laura Jane",
-      image: "laura",
+      image: "veronika",
       title: "Design Leadership",
       segment: "Design",
       group: "design"
@@ -139,8 +139,8 @@ export function getCrews() {
     },
     { 
       id: 18, 
-      name: "Saurabh Thareja",
-      image: "s.thareja",
+      name: "Stuart Logan",
+      image: "joe",
       title: "Digital Technology Developer Team Lead",
       segment: "Software Engineering",
       group: "dev"
@@ -183,12 +183,12 @@ export function getCrews() {
       image: "helen",
       title: "Digital Technology Developer Manager",
       segment: "Software Engineering",
-      group: "dev"
+      group: "fed"
     },
     { 
       id: 24, 
       name: "Jenny Lopez",
-      image: "Jenny",
+      image: "jenny",
       title: "Front End Development Specialist",
       segment: "Business & Technology Integration",
       group: "fed"
@@ -207,8 +207,9 @@ export function getCrews() {
       image: "zoe",
       title: "Digital Technology Developer Assoc Mgr",
       segment: "Software Engineering",
-      group: "dev"
-    }
+      group: "design"
+    },
+
   ]
 )
 }
