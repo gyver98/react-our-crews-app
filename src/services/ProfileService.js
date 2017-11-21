@@ -53,7 +53,7 @@ export function getCrews() {
       id: 7, 
       name: "Kristy Perry",
       image: "kristy",
-      title: "Project Mgmt Specialist",
+      title: "Project Manager",
       segment: "Project & Service Mgmt",
       group: "dev"
     },
@@ -69,7 +69,7 @@ export function getCrews() {
       id: 9, 
       name: "Belinda Wills",
       image: "molly",
-      title: "Project Mgmt Associate Manager",
+      title: "Project Manager",
       segment: "Project & Service Mgmt",
       group: "dev"
     },
@@ -85,7 +85,7 @@ export function getCrews() {
       id: 11, 
       name: "Rachel Brown",
       image: "rachel",
-      title: "Design Leadership",
+      title: "Visual Design",
       segment: "Design",
       group: "design"
     },
@@ -117,7 +117,7 @@ export function getCrews() {
       id: 15, 
       name: "Matthew Joel",
       image: "matthew",
-      title: "Digital Business Integration Manager",
+      title: "Backend developer",
       segment: "Software Engineering",
       group: "dev"
     },
