@@ -333,44 +333,6 @@ grid style
 .c26 {
   grid-area: c26;
 }
-.i27 {
-  grid-area: i27;
-}
-.c27 {
-  grid-area: c27;
-}
-.i28 {
-  grid-area: i28;
-}
-.c28 {
-  grid-area: c28;
-}
-.i29 {
-  grid-area: i29;
-}
-.c29 {
-  grid-area: c29;
-}
-.i30 {
-  grid-area: i30;
-}
-.c30 {
-  grid-area: c30;
-}
-.i31 {
-  grid-area: i31;
-}
-.c31 {
-  grid-area: c31;
-}
-.i32 {
-  grid-area: i32;
-}
-.c32 {
-  grid-area: c32;
-}
-
-
 
 
 .pagetitle {
@@ -433,22 +395,10 @@ img {
 .crew-photo {
   filter: url(#duotone);
   transition: 0.5s;
-  /* filter: url(#duotone);
-  transform: translateZ(0);
-  display: block;
-  width: 100%;
-  object-fit: cover; */
 }
 .crew-photo:hover {
   opacity: 0.8;
-  /* filter: saturate(30%);
-  transition: 0.5s; */
 }
-
-
-/* .crew-profile:hover .crew-profile__name{
-  color: #C0140A;
-} */
 
 .crew-profile__name {
   font-size: 1.5rem;
@@ -535,8 +485,7 @@ img {
     "i7 c7" "c8 i8" "i9 c9" "c10 i10" "i11 c11" "c12 i12"
     "i13 c13" "c14 i14" "i15 c15" "c16 i16" "i17 c17" "c18 i18" 
     "i19 c19" "c20 i20" "i21 c21" "c22 i22" "i23 c23" "c24 i24" 
-    "i25 c25" "c26 i26" "i27 c27" "c28 i28" "i29 c29" "c30 i30" 
-    "i31 c31" "c32 i32";
+    "i25 c25" "c26 i26";
     grid-gap: 20px 0;
   }
 }
@@ -573,12 +522,7 @@ img {
     "c21 i23 c22" 
     "i24 c23 ..." 
     "c24 i25 c25" 
-    "... c26 i26"
-    "c27 i27 c28" 
-    "i29 ... i28" 
-    "c29 i30 c30" 
-    "... c31 i31" 
-    "c32 i32 ...";
+    "... c26 i26";
     grid-gap: 20px;
   }
   
@@ -776,11 +720,7 @@ img {
     "c22 i22 ... i21" 
     "i23 ... i24 c24" 
     "c23 i25 c25 i26" 
-    "... c27 ... c26" 
-    "c28 i27 c29 ..." 
-    "i28 ... i29 c30" 
-    "c32 i31 c31 i30" 
-    "i32 ... ... ...";
+    "... c27 ... c26";
     grid-gap: 20px;
   }
 
@@ -967,10 +907,8 @@ img {
     "c20 ... c21 i21 c19 i22" 
     "i20 c23 i23 ... i24 c22" 
     "c25 i25 ... i26 c24 ..." 
-    "... c27 i27 c26 ... i28" 
-    "i29 ... c30 i30 ... c28" 
-    "c29 i31 ... c32 i32 ..." 
-    "... c31 ... ... ... ...";
+    "... c27 i27 c26 ... i28"; 
+    
     grid-gap: 20px;
   }
 
