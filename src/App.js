@@ -27,7 +27,7 @@ class App extends Component {
       <DuotoneFilter />,
       <div className="contents">
         <h2 className="pagetitle">
-          AI crews
+          our crews
         </h2>
         <main>
           <FilterCrews setFilterActive={this._setFilterActive}/>
