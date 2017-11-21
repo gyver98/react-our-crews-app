@@ -3,16 +3,16 @@ export function getCrews() {
   [
     { 
       id: 1, 
-      name: "Luke Peary",
-      image: "luke.peary",
-      title: "Frontend Development Specialist",
+      name: "Ade Peary",
+      image: "ade",
+      title: "Frontend Developer",
       segment: "Business & Technology Integration",
       group: "fed"
     },
     { 
       id: 2, 
-      name: "Jamie Aitchison",
-      image: "jamie.aitchison",
+      name: "Joe Bone",
+      image: "joe",
       title: "Digital Technology Developer Specialist",
       segment: "Software Engineering",
       group: "dev"
