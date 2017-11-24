@@ -701,7 +701,7 @@ img {
 
 @media (min-width: 56.25em) and (max-width: 100em) {
   .grid-container {
-    grid-template: repeat(22, 1fr)/repeat(4, 1fr);
+    grid-template: repeat(18, 1fr)/repeat(4, 1fr);
     grid-template-areas: 
     "i1 c1 ... i2" 
     "i3 c4 i4 c2" 
