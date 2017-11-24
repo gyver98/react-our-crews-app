@@ -397,7 +397,7 @@ img {
   transition: 0.5s;
 }
 .crew-photo:hover {
-  opacity: 0.8;
+  filter: none;
 }
 
 .crew-profile__name {
