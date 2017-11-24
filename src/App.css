@@ -893,7 +893,7 @@ img {
 
 @media (min-width: 100em) {
   .grid-container {
-    grid-template: repeat(16, 1fr)/repeat(6, 1fr);
+    grid-template: repeat(13, 1fr)/repeat(6, 1fr);
     grid-template-areas: 
     "c1 i1 ... i2 ... c3" 
     "... c4 i4 c2 i5 i3" 
@@ -907,8 +907,7 @@ img {
     "c20 ... c21 i21 c19 i22" 
     "i20 c23 i23 ... i24 c22" 
     "c25 i25 ... i26 c24 ..." 
-    "... c27 i27 c26 ... i28"; 
-    
+    "... ... ... c26 ... ..."; 
     grid-gap: 20px;
   }
 
