@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import FilterButton from './FilterButton';
-// var t = this.getAttribute("data-filtermember");
-// e.setAttribute("data-filterActive", t),
 
 class FilterCrews extends Component {
   constructor(props) {
@@ -18,7 +16,6 @@ class FilterCrews extends Component {
     this.props.setFilterActive(filterMember);
   }
     
- 
 
   render() {
     const { activeItem } = this.state;
