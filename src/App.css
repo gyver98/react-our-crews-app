@@ -34,9 +34,9 @@ main {
   z-index: -1;
 }
 
-/* section {
-  background: url("./img/asset 20.png");
-} */
+section {
+  background: url("./img/bck.png");
+}
 
 .filter-member {
   list-style: none;
