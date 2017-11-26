@@ -205,8 +205,8 @@ export function getCrews() {
       id: 26, 
       name: "Zoe Wesley",
       image: "zoe",
-      title: "Backend developer",
-      segment: "Software Engineering",
+      title: "Visual Design",
+      segment: "Design",
       group: "design"
     },
 
